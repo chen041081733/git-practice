@@ -1,1 +1,2 @@
 this is the beginning of my project notes.
+add a second line to main.
